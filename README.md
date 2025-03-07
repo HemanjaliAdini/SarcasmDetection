@@ -45,51 +45,6 @@ The **best-performing model** was the **Fusion Model (Personality + Content + Di
 | **Fusion Model** | **69.10%** | 0.69 | **0.70** | **0.70** | **0.74** |
 | Without Personality | 68.93% | 0.69 | 0.69 | 0.69 | 0.75 |
 
-## **Installation & Setup**
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/HemanjaliAdini/SarcasmDetection.git
-cd SarcasmDetection
-2. Install Dependencies
-bash
-Copy
-Edit
-pip install -r requirements.txt
-3. Run the Model
-To train and evaluate the sarcasm detection model:
 
-bash
-Copy
-Edit
-python train.py
-For inference on new text, use:
 
-python
-Copy
-Edit
-from sarcasm_detector import detect_sarcasm
-
-text = "Oh great, another meeting at 8 AM. Just what I needed!"
-prediction = detect_sarcasm(text)
-
-print(f"Sarcasm Prediction: {prediction}")
-Usage
-💡 Applications of This Project:
-
-Sarcasm Detection in Social Media: Identify sarcasm in comments and conversations.
-Sentiment Analysis Enhancement: Improve sentiment classifiers with sarcasm detection.
-Content Moderation: Reduce misinterpretations in online forums and automated moderation.
-Future Improvements
-🚀 Planned Enhancements:
-
-Integration of Advanced Transformers: Exploring GPT and XLNet for improved sarcasm modeling.
-Attention-Based Fusion Techniques: To improve performance across embedding types.
-Personality-Aware Pretraining: Training models on personality-annotated datasets.
-Generalization Across Domains: Testing on social media posts and news articles.
-Contributors
-👩‍💻 Hemanjali Adini
-
-MSc Big Data Science, Queen Mary University of London
-GitHub: HemanjaliAdini
-Email: EC23629@qmul.ac.uk
 
