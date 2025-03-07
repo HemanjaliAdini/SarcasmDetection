@@ -1,4 +1,4 @@
-Enhanced Sarcasm Detection Using Hybrid CNN and Multi-Source Embeddings
+## **Enhanced Sarcasm Detection Using Hybrid CNN and Multi-Source Embeddings**
 ![GitHub](https://github.com/HemanjaliAdini/SarcasmDetection)
 
 ## **Overview**
