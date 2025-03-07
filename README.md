@@ -1,5 +1,4 @@
 ## **Enhanced Sarcasm Detection Using Hybrid CNN and Multi-Source Embeddings**
-![GitHub](https://github.com/HemanjaliAdini/SarcasmDetection)
 
 ## **Overview**
 This project focuses on improving sarcasm detection in **online conversations** using a **hybrid CNN-BERT model** combined with **multi-source embeddings**. By integrating **personality traits, discourse-level embeddings, and content-based features**, the model aims to achieve **higher accuracy** in detecting sarcasm in social media conversations.
